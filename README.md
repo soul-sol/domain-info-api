@@ -79,7 +79,6 @@ The test suite mocks all DNS and TLS network work:
 PYTHONPATH=. uv run --with-requirements requirements-dev.txt pytest -q
 ```
 
-
 <!-- xlink:start -->
 ## Related free tools
 
